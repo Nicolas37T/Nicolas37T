@@ -1,101 +1,84 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-  
-  <h1>Nicolás Trigo Aranibar</h1>
-  <h3>Ingeniero de Sistemas | Full Stack Developer | Data Science</h3>
-  
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Banner" />
+
+  <h1>👋 Hola, soy Nicolás Trigo Aranibar</h1>
+  <h3>👨‍💻 Ingeniero de Sistemas | 🌐 Full Stack Developer | 📊 Data Scientist</h3>
+
   <p>
     <a href="https://www.linkedin.com/in/nicolastrigoaranibar7/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:nicolastrigo_00@hotmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="https://portafolionicolastrigo.vercel.app/">
-      <img src="https://img.shields.io/badge/Portafolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <a href="https://portafolionicolastrigo.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Portafolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portafolio" />
     </a>
   </p>
 </div>
 
 ---
 
-### 🛠 Stack Tecnológico
-<div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;">
+## 🛠 Tecnologías y Herramientas
 
-**Frontend**  
+### 💻 Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-**Backend**  
+### 🔧 Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-**Data Science**  
+### 📊 Ciencia de Datos
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-**Otros**  
+### ⚙️ Otros
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
-</div>
-
 ---
 
-### 💼 Experiencia Relevante
+## 💼 Experiencia Profesional
+
 <details>
-<summary><b>🚑 Ambulancias LlajtaMed (2020-Presente)</b></summary>
-<p>
-• <strong>Desarrollador Web</strong> - Landing Page en React<br>
-• Community Manager y creación de contenido multimedia<br>
-🔗 <a href="https://llajtamed.vercel.app/">Visitar sitio web</a>
-</p>
+  <summary><strong>🚑 Ambulancias LlajtaMed (2020 - Presente)</strong></summary>
+  <ul>
+    <li><strong>Rol:</strong> Desarrollador Web y Community Manager</li>
+    <li><strong>Tareas:</strong> Desarrollo de landing page con React, diseño de contenido multimedia y gestión de redes.</li>
+    <li><a href="https://llajtamed.vercel.app/">🌐 Sitio Web</a></li>
+  </ul>
 </details>
 
 <details>
-<summary><b>🏥 SEDES (2024)</b></summary>
-<p>
-• <strong>Practicante Full Stack</strong><br>
-• Desarrollo de sistemas internos y bases de datos
-</p>
+  <summary><strong>🏥 SEDES Cochabamba (2024)</strong></summary>
+  <ul>
+    <li><strong>Rol:</strong> Practicante Full Stack</li>
+    <li><strong>Tareas:</strong> Desarrollo de sistemas internos, mantenimiento de bases de datos y soporte en herramientas digitales.</li>
+  </ul>
 </details>
 
 ---
 
-### 🚀 Proyectos Destacados
-<table>
-<tr>
-<td width="33%">
-<h4>ERP para empresa médica</h4>
-• React + Firebase<br>
-• Módulos de inventario y reportes<br>
-<em>"Sistema integral de gestión médica"</em>
-</td>
-<td width="33%">
-<h4>Clustering de clientes</h4>
-• Python + scikit-learn<br>
-• Visualización en Power BI/Tableau<br>
-<em>"Segmentación predictiva"</em>
-</td>
-<td width="33%">
-<h4>Landing Page de Centro de entrenamiento</h4>
-• React <br>
-• Landing para una empresa que ofrece cursos 
-de entrenamiento para paramedicos <br>
-</td>
-</tr>
-</table>
+## 🚀 Proyectos Destacados
+
+| Proyecto | Tecnologías | Descripción |
+|---------|-------------|-------------|
+| **ERP para empresa médica** | React + Firebase | Sistema de gestión médica con módulos de inventario, reportes y seguimiento. |
+| **Clustering de clientes** | Python, scikit-learn, Power BI | Segmentación de clientes mediante machine learning y visualización interactiva. |
+| **Landing Page Centro de Entrenamiento** | React | Página promocional para una empresa de formación de paramédicos. |
 
 ---
 
-### 📚 Formación Académica
+## 🎓 Formación Académica
+
 ```text
-UMSS - Universidad Mayor de San Simón
-» Ingeniería de Sistemas (2018-2025)
+🎓 Universidad Mayor de San Simón (UMSS)
+» Ingeniería de Sistemas (2018 - 2025)
 
-FCyT UMSS - Universidad Mayor de San Simón
-» Diplomado en Ciencia de Datos (2024-2025)
+📚 FCyT - UMSS
+» Diplomado en Ciencia de Datos (2024 - 2025)
